@@ -1,0 +1,16 @@
+{
+  "name": "Discord Music Bot",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "postCreateCommand": "npm install && echo '✅ Setup selesai! Sekarang buat file .env dan isi DISCORD_TOKEN kamu.'",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+      ],
+      "settings": {
+        "editor.formatOnSave": true
+      }
+    }
+  }
+}
