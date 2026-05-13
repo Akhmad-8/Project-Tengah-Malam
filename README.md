@@ -1,10 +1,10 @@
-# 🎵 Discord Music Bot
+# Discord Music Bot
 
 Bot Discord yang bisa muter lagu dari YouTube langsung di voice channel.
 
 ---
 
-## ⚡ Cara Jalanin di GitHub Codespaces
+## Cara Jalanin di GitHub Codespaces
 
 ### Step 1 — Buat Discord Bot
 
@@ -50,7 +50,7 @@ Bot Discord yang bisa muter lagu dari YouTube langsung di voice channel.
 
 ---
 
-## 🎮 Daftar Command
+## Daftar Command
 
 | Command | Shortcut | Fungsi |
 |---|---|---|
