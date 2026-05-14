@@ -1,4 +1,4 @@
-# 🎵 Discord Music Bot
+# Discord Music Bot
 
 Bot Discord yang bisa muter lagu dari YouTube langsung di voice channel.
 
@@ -50,7 +50,7 @@ Bot Discord yang bisa muter lagu dari YouTube langsung di voice channel.
 
 ---
 
-## 🎮 Daftar Command
+## Daftar Command
 
 | Command | Shortcut | Fungsi |
 |---|---|---|
