@@ -4,7 +4,7 @@ Bot Discord yang bisa muter lagu dari YouTube langsung di voice channel.
 
 ---
 
-## ⚡ Cara Jalanin di GitHub Codespaces
+## ⚡ Cara Jalanin
 
 ### Step 1 — Buat Discord Bot
 
@@ -29,7 +29,15 @@ Bot Discord yang bisa muter lagu dari YouTube langsung di voice channel.
    - ✅ Use Voice Activity
 4. Copy URL yang muncul di bawah → buka di browser → pilih server kamu
 
-### Step 3 — Jalanin di GitHub Codespaces
+### Step 3 - Cara di VSCode
+
+1. Clone Repo ini
+2. buat file ".env" dan isi sesuai dengan ".env.example"
+4. di terminal "npm install"
+5. kemudian kalau sudah selesai "npm start"
+
+### Step 4 — Jalanin di GitHub Codespaces
+## Note : Skip Step ini jika jalanin di VSCode
 
 1. Push folder ini ke GitHub repo kamu
 2. Buka repo → klik **Code** → **Codespaces** → **Create codespace on main**
